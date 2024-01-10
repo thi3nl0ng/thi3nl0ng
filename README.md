@@ -2,7 +2,7 @@
 - I am working as a senior software engineer in Elhub, Statnett. 
 - 👀 I’m interested in Programming, Computer Science, Algorithm, Mathematics, Data Mining, Optimization, Artificial Intelligence, Machine Learning, and Security.
 - 🌱 I’m currently working as senior software engineer in Oslo.
-- 💞️ I’m looking to opputinities working on both industry and academic.
+- 💞️ I’m looking to opportunities for working on both industry and academic.
 - 📫 How to reach me, drop me a direct message on Linkedin or send email to huydqyb@gmail.com
 
 <!---
