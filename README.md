@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Huy Duong. I am a software engineer, reseacher and have background in computer science. I obtained my PhD degree at NTNU, Norway.
+- 👋 Hi, I’m Huy Duong. I am a software engineer, researcher and have background in computer science. I obtained my PhD degree at NTNU, Norway.
 - I am working as a senior software engineer in Elhub, Statnett. 
 - 👀 I’m interested in Programming, Computer Science, Algorithm, Mathematics, Data Mining, Optimization, Artificial Intelligence, Machine Learning, and Security.
 - 🌱 I’m currently working as senior software engineer in Oslo.
